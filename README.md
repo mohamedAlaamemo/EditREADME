@@ -14,7 +14,7 @@ Welcome to my GitHub repository. Here you'll find a collection of projects I've 
 
 ## About Me
 
-I am Mohamed Alaa, a Junior Flutter Developer with over a year of experience. I have a passion for learning and developing robust software solutions. I have developed strong communication skills and am always looking to contribute and build in my career.
+Junior Flutter Developer with 2 years of experience. I have a passion for learning and developing robust software solutions. I have developed strong communication skills and am always looking to contribute and build in my career.
 
 ## Skills
 
